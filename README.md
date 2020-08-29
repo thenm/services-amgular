@@ -1,6 +1,7 @@
-# MyFirstApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+# Angular Service
+ 
+ Created a service to fetch and store the Data injected in components.
+ Also created an service which is injected within another service   
 
 ## Development server
 
